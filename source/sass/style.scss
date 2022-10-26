@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap&subset=cyrillic-ext");
+
+// global
+@import "global/var";
+@import "global/global";
+@import "global/visually-hidden";
+
+// components
+@import "blocks/header";
+@import "blocks/sidepanel";
+@import "blocks/preview";
+@import "blocks/offer";
+@import "blocks/calculating";
+@import "blocks/menu";
+@import "blocks/order";
+@import "blocks/promotion";
+@import "blocks/footer";
+@import "blocks/modal";
+@import "blocks/slider";
+
